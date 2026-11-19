@@ -22,6 +22,7 @@
 ![Yii](https://img.shields.io/badge/Yii2-0073AA?style=for-the-badge&logo=yii&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -41,6 +42,7 @@
 ## 🚀 Project Unggulan
 | Project | Deskripsi | Stack |
 |---|---|---|
+| [**cbt-app**](https://github.com/wisnu-agustya2/cbt-app) | Aplikasi ujian CBT sekolah: bank soal, ujian bertoken, autosave, penilaian otomatis | Django REST, Vue 3, Flutter |
 | [**company-cms**](https://github.com/wisnu-agustya2/company-cms) | Website company profile + panel admin: blog, layanan, pesan, pengaturan | Laravel 13, Blade |
 | [**hr-attendance**](https://github.com/wisnu-agustya2/hr-attendance) | Absensi karyawan, pengajuan cuti, dan rekap bulanan | CodeIgniter 4 |
 | [**inventory-api**](https://github.com/wisnu-agustya2/inventory-api) | REST API inventori: stok masuk/keluar atomik, riwayat, OpenAPI | Yii2 |
