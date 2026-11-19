@@ -43,9 +43,9 @@
 | [**devfolio**](https://github.com/wisnu-agustya2/devfolio) | Website portofolio pribadi, responsif dengan dark mode | HTML, CSS, JavaScript |
 | [**weather-now**](https://github.com/wisnu-agustya2/weather-now) | Dashboard cuaca real-time dengan pencarian kota | Vue 3, Open-Meteo API |
 | [**expense-tracker**](https://github.com/wisnu-agustya2/expense-tracker) | Pencatat keuangan dengan grafik dan export CSV | JavaScript, Chart.js |
-| *task-flow* (segera) | Kanban board dengan autentikasi | Laravel, Vue, MySQL |
-| *inventory-api* (segera) | REST API inventori dengan dokumentasi Swagger | Yii2, MySQL |
-| *pos-mobile* (segera) | Aplikasi kasir mobile | Flutter |
+| [**task-api**](https://github.com/wisnu-agustya2/task-api) | REST API task dengan autentikasi JWT dan SQLite | Node.js |
+| [**price-scraper**](https://github.com/wisnu-agustya2/price-scraper) | Scraper harga produk dengan riwayat dan laporan CSV | Python |
+| [**dev-toolkit**](https://github.com/wisnu-agustya2/dev-toolkit) | CLI utilitas developer (JSON, hash, UUID, dll.) | Node.js |
 
 ## 📊 Statistik GitHub
 <div align="center">
