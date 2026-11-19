@@ -35,17 +35,30 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 🚀 Project Unggulan
 | Project | Deskripsi | Stack |
 |---|---|---|
-| [**devfolio**](https://github.com/wisnu-agustya2/devfolio) | Website portofolio pribadi, responsif dengan dark mode | HTML, CSS, JavaScript |
-| [**weather-now**](https://github.com/wisnu-agustya2/weather-now) | Dashboard cuaca real-time dengan pencarian kota | Vue 3, Open-Meteo API |
-| [**expense-tracker**](https://github.com/wisnu-agustya2/expense-tracker) | Pencatat keuangan dengan grafik dan export CSV | JavaScript, Chart.js |
-| [**task-api**](https://github.com/wisnu-agustya2/task-api) | REST API task dengan autentikasi JWT dan SQLite | Node.js |
+| [**company-cms**](https://github.com/wisnu-agustya2/company-cms) | Website company profile + panel admin: blog, layanan, pesan, pengaturan | Laravel 13, Blade |
+| [**hr-attendance**](https://github.com/wisnu-agustya2/hr-attendance) | Absensi karyawan, pengajuan cuti, dan rekap bulanan | CodeIgniter 4 |
+| [**inventory-api**](https://github.com/wisnu-agustya2/inventory-api) | REST API inventori: stok masuk/keluar atomik, riwayat, OpenAPI | Yii2 |
+| [**pos-mobile**](https://github.com/wisnu-agustya2/pos-mobile) | Aplikasi kasir offline dengan laporan penjualan | Flutter, SQLite |
+| [**task-api**](https://github.com/wisnu-agustya2/task-api) | REST API task dengan autentikasi JWT | Node.js, SQLite |
 | [**price-scraper**](https://github.com/wisnu-agustya2/price-scraper) | Scraper harga produk dengan riwayat dan laporan CSV | Python |
+
+<details>
+<summary>Project lainnya</summary>
+
+| Project | Deskripsi | Stack |
+|---|---|---|
+| [**weather-now**](https://github.com/wisnu-agustya2/weather-now) | Dashboard cuaca real-time dengan pencarian kota | Vue 3 |
+| [**expense-tracker**](https://github.com/wisnu-agustya2/expense-tracker) | Pencatat keuangan dengan grafik dan export CSV | JavaScript, Chart.js |
 | [**dev-toolkit**](https://github.com/wisnu-agustya2/dev-toolkit) | CLI utilitas developer (JSON, hash, UUID, dll.) | Node.js |
+| [**devfolio**](https://github.com/wisnu-agustya2/devfolio) | Website portofolio pribadi | HTML, CSS, JavaScript |
+
+</details>
 
 ## 📊 Statistik GitHub
 <div align="center">
